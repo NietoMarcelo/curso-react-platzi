@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NietoMarcelo/curso-react-platzi.git/static/css/main.cc853b00.chunk.css",
+    "main.js": "/NietoMarcelo/curso-react-platzi.git/static/js/main.ed376985.chunk.js",
+    "main.js.map": "/NietoMarcelo/curso-react-platzi.git/static/js/main.ed376985.chunk.js.map",
+    "runtime-main.js": "/NietoMarcelo/curso-react-platzi.git/static/js/runtime-main.1c345505.js",
+    "runtime-main.js.map": "/NietoMarcelo/curso-react-platzi.git/static/js/runtime-main.1c345505.js.map",
+    "static/js/2.970d1c2f.chunk.js": "/NietoMarcelo/curso-react-platzi.git/static/js/2.970d1c2f.chunk.js",
+    "static/js/2.970d1c2f.chunk.js.map": "/NietoMarcelo/curso-react-platzi.git/static/js/2.970d1c2f.chunk.js.map",
+    "index.html": "/NietoMarcelo/curso-react-platzi.git/index.html",
+    "static/css/main.cc853b00.chunk.css.map": "/NietoMarcelo/curso-react-platzi.git/static/css/main.cc853b00.chunk.css.map",
+    "static/js/2.970d1c2f.chunk.js.LICENSE.txt": "/NietoMarcelo/curso-react-platzi.git/static/js/2.970d1c2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c345505.js",
+    "static/js/2.970d1c2f.chunk.js",
+    "static/css/main.cc853b00.chunk.css",
+    "static/js/main.ed376985.chunk.js"
+  ]
+}
